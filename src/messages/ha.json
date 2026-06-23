@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "home": "Gida",
+    "about": "Kan Muni",
+    "services": "Ayyuka",
+    "industries": "Masana'antu",
+    "locations": "Wurare",
+    "platforms": "Gidagidanmi",
+    "blog": "Blog",
+    "pricing": "Farashin",
+    "contact": "Tuntubaida",
+    "faq": "Yara Ayyuka"
+  },
+  "hero": {
+    "title": "Saya Ainihin Bukatu Google a Najeriya",
+    "subtitle": "Sami bukatu daidai daidai daga 500+ Jagajemma na Google da aka saka. Mutane na hakika, asusun na hakika, bukatu na hakika.",
+    "cta": "Sami 5 Bukatu Kyauta",
+    "badges": "500+ Jagajemma | 4.9/5 Matsayin | 15+ Gida"
+  },
+  "footer": {
+    "company": "BuyReviewsInNigeria",
+    "tagline": "Babbar shafin malamin kirja na Najeriya",
+    "quickLinks": "Jumlan Jumla",
+    "legal": "Doka",
+    "contact": "Tuntubaida",
+    "rights": "Duk hakkoki sun kasance."
+  }
+}

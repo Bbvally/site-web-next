@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "services": "Services",
+    "industries": "Secteurs",
+    "locations": "Localités",
+    "platforms": "Plateformes",
+    "blog": "Blog",
+    "pricing": "Tarifs",
+    "contact": "Contactez-nous",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "title": "Achetez des Avis Google Authentiques en Afrique",
+    "subtitle": "Obtenez des avis vérifiés de 500+ Guides Locaux certifiés. Des vraies personnes, de vrais comptes, de vrais avis.",
+    "cta": "Obtenez 5 Avis GRATUITS",
+    "badges": "500+ Guides Locaux | Note 4.9/5 | 15+ Villes"
+  },
+  "footer": {
+    "company": "BuyReviewsInNigeria",
+    "tagline": "Plateforme africaine leader en gestion de réputation",
+    "quickLinks": "Liens Rapides",
+    "legal": "Juridique",
+    "contact": "Nous Contacter",
+    "rights": "Tous droits réservés."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "home": "Àkókò",
+    "about": "Nipa wa",
+    "services": "Àwọn Iṣẹ́",
+    "industries": "Àwọn Ẹ̀kó",
+    "locations": "Àwọn Ìgbègé",
+    "platforms": "Àwọn Pẹ̀pẹ̀",
+    "blog": "Blog",
+    "pricing": "Àwọn Iye",
+    "contact": "Ká Pe Wa",
+    "faq": "Àwọn Ibeere Ti A Beere Nigbagbogbo"
+  },
+  "hero": {
+    "title": "Ra Google Reviews Otentiki ni Nigeria",
+    "subtitle": "Gba awọn reviews ti a ri lati ọdọ 500+ Guides Alagbado ti a baje. Awọn eniyan gidi, awọn akọọnt gidi, awọn reviews gidi.",
+    "cta": "Gba 5 Reviews Nipa Ọfẹ",
+    "badges": "500+ Guides Alagbado | 4.9/5 Baba | 15+ Awọn Ìlú"
+  },
+  "footer": {
+    "company": "BuyReviewsInNigeria",
+    "tagline": "Ohun elo nìnú akọkọ ti Nigeria fun iṣẹ́ ìfẹ́",
+    "quickLinks": "Àwọn Ọngójú Iṣẹ́",
+    "legal": "Ofin",
+    "contact": "Ká Pe Wa",
+    "rights": "Gbogbo àwọn ẹtọ ti o wa."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "industries": "Industries",
+    "locations": "Locations",
+    "platforms": "Platforms",
+    "blog": "Blog",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "title": "Buy Authentic Google Reviews in Nigeria",
+    "subtitle": "Get verified reviews from 500+ certified Local Guides. Real people, real accounts, real reviews.",
+    "cta": "Get 5 FREE Reviews",
+    "badges": "500+ Local Guides | 4.9/5 Rating | 15+ Cities"
+  },
+  "footer": {
+    "company": "BuyReviewsInNigeria",
+    "tagline": "Nigeria's leading reputation management platform",
+    "quickLinks": "Quick Links",
+    "legal": "Legal",
+    "contact": "Contact Us",
+    "rights": "All rights reserved."
+  }
+}
